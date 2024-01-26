@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 iced = "0.10"
+evalexpr = "11.3.0"
